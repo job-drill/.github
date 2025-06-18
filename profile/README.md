@@ -6,7 +6,7 @@
     <p align="center">
       <img alt="Static Badge" src="https://img.shields.io/badge/v0.0.1--beta-000000?style=plastic&logo=apple&logoColor=FFFFFF&logoSize=auto&label=release">
       <img alt="Static Badge" src="https://img.shields.io/badge/license-Apache--2.0-%2300465B?style=plastic&labelColor=black" style="display:inline-block;">
-      <img alt="Static Badge" src="https://img.shields.io/badge/%EB%8D%B0%EB%AA%A8_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-000000?style=plastic&logo=YouTube&logoColor=FFFFFF&label=YouTube&labelColor=FF0000">
+      <a href="https://youtu.be/6oZ4vCn0mEw"><img alt="Static Badge" src="https://img.shields.io/badge/%EB%8D%B0%EB%AA%A8_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-000000?style=plastic&logo=YouTube&logoColor=FFFFFF&label=YouTube&labelColor=FF0000"></a>
     </p align="center">
 </p>
 
