@@ -37,12 +37,6 @@
 
 <br/>
 
-### 🔩 아키텍처
-
-![아키텍처](https://github.com/user-attachments/assets/804459f8-7f93-44c9-99d9-e9b49e099163)
-
-<br/>
-
 ### 🪏 기술스택
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Xcode-000000?style=plastic&logo=Xcode&logoColor=147EFB" /> <img alt="Static Badge" src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=FFFFFF" /> <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=FFFFFF" /> <img alt="Static Badge" src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=swift&logoColor=FFFFFF" /> <img alt="Static Badge" src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=FFFFFF" /> <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=firebase&logoColor=FFFFFF" /> <img alt="Static Badge" src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=plastic&logo=googlegemini&logoColor=FFFFFF" />
